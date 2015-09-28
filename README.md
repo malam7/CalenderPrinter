@@ -1,2 +1,0 @@
-# CalenderPrinter
-First assignment
